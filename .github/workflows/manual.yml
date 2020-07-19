@@ -8,7 +8,7 @@ on: fe80::7e89:5ff:fe32:415a
   workflow_dispatch:
     # Inputs the workflow accepts.
     inputs:
-      name: [ LPLGong ]
+      name: [ Linusvalds ]
         # Friendly description to be shown in the UI instead of 'name'
         description: 'Person to greet'
         # Default value if no value is explicitly provided
